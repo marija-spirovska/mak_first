@@ -1,3 +1,3 @@
 # mak_first
-Hello World :)
+Hello World !
 Git Introduction Repository
